@@ -1,6 +1,3 @@
 some config that was checked in after init and need to get pulled down
 adding additional config
-
-
-
 more changes  
